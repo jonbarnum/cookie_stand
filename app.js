@@ -74,5 +74,3 @@ function printData (store) {
 for (let i = 0; i < stores.length; i++){
     printData(stores[i]);
 }
-
-
